@@ -1,0 +1,1 @@
+This project uses lucide-react icons in App.jsx; CodeSandbox will auto-install dependencies when you import the project. If icons fail to load, remove the lucide-react imports or run `npm install lucide-react`.
